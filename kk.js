@@ -1,2 +1,5 @@
-este es el conflicto a ver que pasas wey
+este es el conflicto
+
+jaj hay conflicotoo
+
 
