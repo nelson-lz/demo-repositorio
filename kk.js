@@ -1,1 +1,2 @@
-este es el conflicto
+este es el conflicto a ver que pasas wey
+
